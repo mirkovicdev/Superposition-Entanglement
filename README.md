@@ -1,6 +1,6 @@
-# Quantum Information – Entanglement Notes
+# Quantum Information – Superposition and Entanglement Notes
 
-This repository contains detailed LaTeX notes based on Lecture 4 (Entanglement) and the corresponding exercises from a course in Quantum Information and Computation.
+This repository contains detailed LaTeX notes on Entanglement and Superposition in Quantum Information and Computation.
 
 ## Contents
 - **Quantum Key Distribution (BB84)**
