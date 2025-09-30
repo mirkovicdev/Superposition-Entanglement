@@ -1,2 +1,25 @@
-# Superposition-Entanglement
-Lecture-style LaTeX notes on entanglement and its applications in quantum information. Covers QKD (BB84), entanglement entropy, Bell states, CHSH inequality, superdense coding, teleportation, gate teleportation, GHZ/W states, three-party teleportation, and approximate cloning.
+# Quantum Information – Entanglement Notes
+
+This repository contains detailed LaTeX notes based on Lecture 4 (Entanglement) and the corresponding exercises from a course in Quantum Information and Computation.
+
+## Contents
+- **Quantum Key Distribution (BB84)**
+- **Entanglement definitions and entropy**
+- **Bell states and partial entanglement**
+- **EPR paradox and CHSH inequality**
+- **Superdense coding**
+- **Quantum teleportation**
+- **Gate teleportation**
+- **Multi-qubit entanglement (GHZ and W states)**
+- **Three-party teleportation with GHZ**
+- **Approximate cloning and fidelity**
+
+## Features
+- Full LaTeX source for reproducible notes.
+- Includes explanations, circuits (via `quantikz`), and worked examples.
+- Organized to follow a logical teaching order.
+
+## Usage
+Clone the repository and compile with `pdflatex` or your LaTeX environment of choice:
+```bash
+pdflatex lecture4_entanglement.tex
