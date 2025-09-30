@@ -22,4 +22,4 @@ This repository contains detailed LaTeX notes on Entanglement and Superposition 
 ## Usage
 Clone the repository and compile with `pdflatex` or your LaTeX environment of choice:
 ```bash
-pdflatex lecture4_entanglement.tex
+pdflatex entanglement.tex
